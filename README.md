@@ -3,7 +3,7 @@
 ## I'm a Young and Passionate Developer!!
 
 - 🔭 UnderGrad
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything �
 - 🥅 Goals: Get into Content Creation
 - ⚡ Fun fact: I love to play Games
 

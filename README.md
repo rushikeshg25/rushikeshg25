@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Typescript, C# and Cloud Technologies.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in Web3. So,I'm learning **Rust**
 
 - 📝 I regularly code on [Leetcode]([https://1010nishant.hashnode.dev](https://leetcode.com/jarvisRG/)/)
 

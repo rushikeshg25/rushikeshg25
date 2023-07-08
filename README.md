@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **ReactJs, NodeJs, Springboot and SQL.**
 
-- 🌱 I’m currently learning **Typescript, C# and Cloud Technologies.**
+- 🌱 I’m currently learning **Cloud Technologies**
 
 - ☁️ I've keen interest in Web3. So,I'm learning **Rust**
 

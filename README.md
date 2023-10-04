@@ -19,8 +19,6 @@
 
 - ☁️ I've keen interest in Web3. So,I'm learning **Rust**
 
-- 📝 I regularly code on [Leetcode]([https://1010nishant.hashnode.dev](https://leetcode.com/jarvisRG/)/)
-
 - 💬 Ask me about **ReactJs, Springboot and NodeJs**
 
 - 📫 Feel free to reach me out **rushikeshvghotekar25@gmail.com**

@@ -21,7 +21,6 @@
 
 - 💬 Ask me about **ReactJs, Springboot and NodeJs**
 
-- 📫 Feel free to reach me out **rushikeshvghotekar25@gmail.com**
 
 <!--Intro end-->
 

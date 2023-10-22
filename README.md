@@ -13,13 +13,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **ReactJs, NodeJs, Springboot and SQL.**
+- 🔭 I’m currently working on **NextJs.**
 
 - 🌱 I’m currently learning **Cloud Technologies**
 
-- ☁️ I've keen interest in Web3. So,I'm learning **Rust**
+- ☁️ I've keen interest in Web3.
 
-- 💬 Ask me about **ReactJs, Springboot and NodeJs**
+- 💬 Ask me about **ReactJs, NextJs and NodeJs**
 
 
 <!--Intro end-->
